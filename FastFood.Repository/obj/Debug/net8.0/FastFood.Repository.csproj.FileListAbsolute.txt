@@ -1,0 +1,16 @@
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\bin\Debug\net8.0\FastFood.Repository.deps.json
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\bin\Debug\net8.0\FastFood.Repository.dll
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\bin\Debug\net8.0\FastFood.Repository.pdb
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\bin\Debug\net8.0\FastFood.Models.dll
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\bin\Debug\net8.0\FastFood.Models.pdb
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.sourcelink.json
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\obj\Debug\net8.0\FastFood.46B052DB.Up2Date
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.dll
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\obj\Debug\net8.0\refint\FastFood.Repository.dll
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.pdb
+C:\Users\Admin\Source\Repos\Food-Ecommerce4\FastFood.Repository\obj\Debug\net8.0\ref\FastFood.Repository.dll

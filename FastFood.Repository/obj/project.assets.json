@@ -834,32 +834,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\acer\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Food Ecommerce\\FastFood.Repository\\FastFood.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Repository\\FastFood.Repository.csproj",
       "projectName": "FastFood.Repository",
-      "projectPath": "D:\\Food Ecommerce\\FastFood.Repository\\FastFood.Repository.csproj",
-      "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-      "outputPath": "D:\\Food Ecommerce\\FastFood.Repository\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Repository\\FastFood.Repository.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Food Ecommerce\\FastFood.Models\\FastFood.Models.csproj": {
-              "projectPath": "D:\\Food Ecommerce\\FastFood.Models\\FastFood.Models.csproj"
+            "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Models\\FastFood.Models.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Models\\FastFood.Models.csproj"
             }
           }
         }
@@ -900,7 +902,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

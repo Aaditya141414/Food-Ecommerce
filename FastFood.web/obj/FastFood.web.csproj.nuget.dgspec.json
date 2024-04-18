@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Food Ecommerce\\FastFood.web\\FastFood.web.csproj": {}
+    "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.web\\FastFood.web.csproj": {}
   },
   "projects": {
-    "D:\\Food Ecommerce\\FastFood.Models\\FastFood.Models.csproj": {
+    "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Models\\FastFood.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Food Ecommerce\\FastFood.Models\\FastFood.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Models\\FastFood.Models.csproj",
         "projectName": "FastFood.Models",
-        "projectPath": "D:\\Food Ecommerce\\FastFood.Models\\FastFood.Models.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\Food Ecommerce\\FastFood.Models\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Models\\FastFood.Models.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,34 +66,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Food Ecommerce\\FastFood.Repository\\FastFood.Repository.csproj": {
+    "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Repository\\FastFood.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Food Ecommerce\\FastFood.Repository\\FastFood.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Repository\\FastFood.Repository.csproj",
         "projectName": "FastFood.Repository",
-        "projectPath": "D:\\Food Ecommerce\\FastFood.Repository\\FastFood.Repository.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\Food Ecommerce\\FastFood.Repository\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Repository\\FastFood.Repository.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Food Ecommerce\\FastFood.Models\\FastFood.Models.csproj": {
-                "projectPath": "D:\\Food Ecommerce\\FastFood.Models\\FastFood.Models.csproj"
+              "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Models\\FastFood.Models.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Models\\FastFood.Models.csproj"
               }
             }
           }
@@ -132,34 +136,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Food Ecommerce\\FastFood.web\\FastFood.web.csproj": {
+    "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.web\\FastFood.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Food Ecommerce\\FastFood.web\\FastFood.web.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.web\\FastFood.web.csproj",
         "projectName": "FastFood.web",
-        "projectPath": "D:\\Food Ecommerce\\FastFood.web\\FastFood.web.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\Food Ecommerce\\FastFood.web\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.web\\FastFood.web.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Food Ecommerce\\FastFood.Repository\\FastFood.Repository.csproj": {
-                "projectPath": "D:\\Food Ecommerce\\FastFood.Repository\\FastFood.Repository.csproj"
+              "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Repository\\FastFood.Repository.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Food-Ecommerce4\\FastFood.Repository\\FastFood.Repository.csproj"
               }
             }
           }
@@ -186,6 +192,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
@@ -207,7 +217,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
